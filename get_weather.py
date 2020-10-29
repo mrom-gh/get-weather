@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 #
-# get_weather.py - Prints the weather for a location from the
-# command line.
+# get_weather.py - Prints the weather forecast for a location to stdout
 
 import sys, requests, json, datetime
 APPID = str(sys.argv[1])
