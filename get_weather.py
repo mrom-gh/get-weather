@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #
-# get_open_weather.py - Prints the weather for a location from the
+# get_weather.py - Prints the weather for a location from the
 # command line.
 
 import sys, requests, json, datetime
